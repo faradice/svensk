@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1b79507-b677-460f-be62-22678038c77a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svenska2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svenska2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svenska2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svenska2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svenska2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svenska2/com/raggi/svenska/Common.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svenska2/com/raggi/svenska/Svenska.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svenska2/com/raggi/svenska/Word.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svenska2/svenska.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/5val1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/DenSomOverliver.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/Joakim_L4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/Linda_L1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/Linda_L2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/Linda_L3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/Svenska.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/football.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/hs_err_pid60399.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/balkong.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/bh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/blus.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/byxor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/cash.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/crossing.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/dendar.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/flekt.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/halsduk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/hurmanga.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/ingenfara.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/jacka.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/kalsong.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/kanna.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/kappa.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/keps.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/kjellare.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/kjol.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/kladder.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/klanning.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/kontokort.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/kort.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/kran.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/kylskap.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/mossa.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/sjal.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/skap.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/skjorta.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/skor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/skrammande.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/smile.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/spis.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/stovlar.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/strumpor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/t-kjorta.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/tak.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/trappa.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/tregard.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/troja.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/trosor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/tvettstuga.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/ugn.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/vantar.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/image/vind.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/may22.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/must_master.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/pgt1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/svart.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime/ön.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raggi/svenska/Common.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raggi/svenska/Svenska.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raggi/svenska/Word.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="1zrIFEE9k4PIEwhp4GHyJyoRqAd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/runtime" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/runtime" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Svenska" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.raggi.svenska.Svenska" />
+      <module name="svenska2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runtime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raggi.svenska.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Svenska" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1b79507-b677-460f-be62-22678038c77a" name="Changes" comment="" />
+      <created>1634899675929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634899675929</updated>
+    </task>
+    <servers />
+  </component>
+</project>
